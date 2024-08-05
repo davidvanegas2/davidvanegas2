@@ -11,9 +11,8 @@ I'm David, a dedicated Data Engineer with a knack for transforming raw data into
 - 🌍 Languages: Spanish (Native), English (Fluent)
 - 🌱 I’m currently learning Generative AI
 - 💬 Ask me about **Data Engineering**, **AWS Services**, **Python Programming**, **Cloud Infrastructure**
-- 📫 How to reach me: [linkedin]
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: davidfvanegas@outlook.com
+- ⚡ Fun fact: I love learning new things and sharing my knowledge with the community. Whether it's a complex data pipeline or a simple Python script, I enjoy the journey of solving problems and discovering new solutions.
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=davidvanegas2&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="David's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidvanegas2&layout=compact&theme=dark&hide_border=true" /></a> |
