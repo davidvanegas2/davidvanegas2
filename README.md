@@ -1,5 +1,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/davidvanegas2?label=Follow&style=social)](https://github.com/davidvanegas2/?tab=follow)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=[https://www.linkedin.com/in/ashleymavericks/](https://www.linkedin.com/in/david-felipe-vanegas-ram%C3%ADrez/))]([https://www.linkedin.com/in/ashleymavericks/](https://www.linkedin.com/in/david-felipe-vanegas-ram%C3%ADrez/))
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/david-felipe-vanegas-ram%C3%ADrez/)](https://www.linkedin.com/in/david-felipe-vanegas-ram%C3%ADrez/)
 [![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@davidfvanegas)](https://medium.com/@davidfvanegas)
 
 ## Hi, I'm David 👋
