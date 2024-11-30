@@ -30,7 +30,7 @@ Currently, I'm a **Senior Data Engineer** at Workstate, where I contribute to im
 
 ## 📫 Let’s Connect!
 - **Email:** [davidfvanegas@outlook.com](mailto:davidfvanegas@outlook.com)  
-- **LinkedIn:** [David Vanegas](https://www.linkedin.com/in/davidfvanegas/)  
+- **LinkedIn:** [David Vanegas](https://www.linkedin.com/in/david-felipe-vanegas-ram%C3%ADrez/)  
 - **Medium:** [My Blog](https://medium.com/@davidfvanegas)  
 
 ---
