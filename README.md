@@ -2,17 +2,40 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/david-felipe-vanegas-ram%C3%ADrez/)](https://www.linkedin.com/in/david-felipe-vanegas-ram%C3%ADrez/)
 [![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@davidfvanegas)](https://medium.com/@davidfvanegas)
 
-## Hi, I'm David 👋
+# Hi there, I'm David 👋
 
-I'm David, a dedicated Data Engineer with a knack for transforming raw data into actionable insights. Currently, I'm advancing my career at Loka, Inc., where I leverage my expertise in AWS technologies to build scalable and efficient data solutions. With a strong foundation in Python and a passion for exploring new technologies, I strive to continuously enhance my skills and contribute to impactful projects.
+I'm David, a passionate Senior Data Engineer with a deep expertise in designing and building scalable, cloud-based data solutions. I specialize in leveraging AWS technologies and Python to transform raw data into actionable insights, helping businesses unlock the full potential of their data.
 
-- 🔭 I’m currently working on **[Loka, Inc]** as Advanced Data Engineer (IC3)
-- 🚀 Specialization: AWS services, Python programming, Data Analytics
-- 🌍 Languages: Spanish (Native), English (Fluent)
-- 🌱 I’m currently learning Generative AI
-- 💬 Ask me about **Data Engineering**, **AWS Services**, **Python Programming**, **Cloud Infrastructure**
-- 📫 How to reach me: davidfvanegas@outlook.com
-- ⚡ Fun fact: I love learning new things and sharing my knowledge with the community. Whether it's a complex data pipeline or a simple Python script, I enjoy the journey of solving problems and discovering new solutions.
+Currently, I'm a **Senior Data Engineer** at Workstate, where I contribute to impactful data projects that drive meaningful outcomes for clients. With a solid background in consulting and product-focused roles, I excel at bridging technical excellence with strategic problem-solving.
+
+---
+
+## 🛠️ Skills & Expertise:
+- **Cloud Technologies:** Proficient in AWS services (Glue, EMR, Lambda, S3, Athena, DynamoDB, etc.), Terraform, and Infrastructure as Code (IaC).
+- **Programming:** Advanced in Python, with a focus on data engineering, automation, and backend development.
+- **Big Data:** Experience with distributed systems like Apache Kafka and Trino, designing and optimizing data architectures for high-volume pipelines.
+- **Consulting:** Skilled in scoping and delivering tailored solutions for diverse clients, ensuring efficiency and scalability.
+
+---
+
+## 🌍 About Me:
+- 🔭 **Current Role:** Senior Data Engineer at Workstate  
+- 🚀 **Specialization:** AWS Services, Python Programming, Cloud Data Architectures, Big Data  
+- 🌱 **Currently Learning:** Advanced CI/CD practices and expanding my knowledge in modern data lakehouse frameworks.  
+- 💬 **Ask Me About:** Data Engineering, AWS Services, Python Programming, Big Data, and Cloud Infrastructure.  
+- 🌍 **Languages:** Spanish (Native), English (Fluent).  
+- ⚡ **Fun Fact:** I love building tools that simplify workflows and improve efficiency—whether it’s for internal teams or clients. Sharing knowledge with the community is my way of growing and giving back.  
+
+---
+
+## 📫 Let’s Connect!
+- **Email:** [davidfvanegas@outlook.com](mailto:davidfvanegas@outlook.com)  
+- **LinkedIn:** [David Vanegas](https://www.linkedin.com/in/davidfvanegas/)  
+- **Medium:** [My Blog](https://medium.com/@davidfvanegas)  
+
+---
+
+I’m always looking to collaborate on challenging projects and explore opportunities where I can make a meaningful impact. Let’s connect and build something great together! 🚀
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=davidvanegas2&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="David's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidvanegas2&layout=compact&theme=dark&hide_border=true" /></a> |
